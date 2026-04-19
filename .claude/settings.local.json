@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebSearch",
+      "WebFetch(domain:3dprint.wiki)",
+      "Bash(mv /home/eddy/Dokumente/Repository/3D-Druck/build /home/eddy/Dokumente/Repository/3D-Druck/tmp/)",
+      "Bash(mv /home/eddy/Dokumente/Repository/3D-Druck/Anet_A8_Firmware /home/eddy/Dokumente/Repository/3D-Druck/tmp/)",
+      "Bash(git add *)"
+    ]
+  }
+}
